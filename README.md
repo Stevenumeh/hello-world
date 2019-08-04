@@ -2,4 +2,4 @@
 First repository
 
 Hi Coders
-Steven Here,I came destroy the world and build it a new one
+Steven Here,I came to destroy the world and build it a new one
